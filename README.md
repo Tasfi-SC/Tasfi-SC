@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tasfi Samad Choudhury</h1>
 <h3 align="center">A  developer climbing his way up the ladder</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasfi-sc/tasfi-sc/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasfi-sc/tasfi-sc/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tasfi-SC/Tasfi-SC/output/pacman-contribution-graph.svg">
+</picture>
+
 - 🌱 I’m currently learning **Java, Python, Ruby, JS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tasfi-SC/Coding-Journey](https://github.com/Tasfi-SC/Coding-Journey)
@@ -25,9 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasfi-sc&" alt="tasfi-sc" /></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tasfi-sc/tasfi-sc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tasfi-sc/tasfi-sc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tasfi-SC/Tasfi-SC/output/pacman-contribution-graph.svg">
-</picture>
+
 
