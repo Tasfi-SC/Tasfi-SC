@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasfi Samad Choudhury</h1>
-<h3 align="center">A passionate developer climbing his way up the ladder</h3>
+<h3 align="center">A  developer climbing his way up the ladder</h3>
 
-- 🌱 I’m currently learning **Java, Python, Ruby, JS , react**
+- 🌱 I’m currently learning **Java, Python, Ruby, JS, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tasfi-SC/Coding-Journey](https://github.com/Tasfi-SC/Coding-Journey)
 
